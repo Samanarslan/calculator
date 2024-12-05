@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "jquery": "^3.5.0",
+    "jquery2": "npm:jquery@^2.2.4",
+    "jquery3": "npm:jquery@^3.7.1",
+    "my-react": "npm:react@^18.3.1",
+    "next": "^14.2.15",
+    "npa": "npm:npm-package-arg@^12.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sax": "^1.4.1"
+  },
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "My First Next Js Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "keywords": [
+    "next.js"
+  ],
+  "author": "saman arslan",
+  "license": "ISC"
+}
